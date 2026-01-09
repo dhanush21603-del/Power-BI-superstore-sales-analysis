@@ -1,2 +1,3 @@
 # Power-BI-superstore-sales-analysis
-End-to-end Power BI dashboard analyzing Superstore sales performance, trends, profitability, and business insights.
+This project presents an end-to-end Power BI sales analytics dashboard built using Superstore data.
+The dashboard helps stakeholders monitor sales performance, profitability, regional trends, and loss-making areas.
